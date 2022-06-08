@@ -9,6 +9,7 @@ import random
 import wandb
 import math
 from tqdm import tqdm 
+import os
 
 # display stuff
 from gym import logger as gymlogger
