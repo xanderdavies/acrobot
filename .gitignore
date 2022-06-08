@@ -1,3 +1,5 @@
 .vscode
 wandb
 weights
+scratch.py
+__pycache__
